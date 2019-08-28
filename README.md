@@ -18,7 +18,7 @@ Binary classification model can be used to address this requirement. Here are th
 5. Uses seaborn to visualize the findings
 6. Runs the model in Apache Spark to publish the findings!
 
-Check the [blog](http://www.google.com) for further details.
+Check the [blog](https://medium.com/@jambs/can-data-science-help-reduce-the-churn-3098ba798d98) for further details.
 
 Look at the [Jupyter Notebook](https://github.com/JambulingamD/Sparkify/blob/master/Sparkify.ipynb) for the python script.
 
